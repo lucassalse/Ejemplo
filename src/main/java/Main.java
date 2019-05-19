@@ -16,7 +16,8 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundo hdp") ; //Concepcion alvarado el ERIK
-        System.out.println("HOLAAAA") ;
+        System.out.println("HOLAAAA") ; 
+        System.out.println("hola") ;
         
     }
     
